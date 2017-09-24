@@ -1,0 +1,25 @@
+12 files changed         843 insertions(+)         56 deletions(-)         38 commits          susi_chromebot
+ 31 files changed         603 insertions(+)         41 deletions(-)         30 commits          codeheat.org
+ 9 files changed         129 insertions(+)         138 deletions(-)         24 commits          susi_skill_data
+ 77 files changed         3710 insertions(+)         671 deletions(-)         131 commits          badgeyay
+ 13 files changed         340 insertions(+)         5 deletions(-)         5 commits          pslab-android
+ 29 files changed         352 insertions(+)         41 deletions(-)         33 commits          fossasia.org
+ 10 files changed         296 insertions(+)         165 deletions(-)         6 commits          query-server
+ 2 files changed         21 insertions(+)         11 deletions(-)         4 commits          open-event-android
+ 4 files changed         17 insertions(+)         3 deletions(-)         5 commits          susi_skill_cms
+no commits          susper.com
+ 3 files changed         4 insertions(+)         291 deletions(-)         5 commits          open-event-orga-server
+ 47 files changed         554 insertions(+)         187 deletions(-)         48 commits          phimpme-android
+ 18 files changed         173 insertions(+)         1023 deletions(-)         16 commits          opentechsummit.cn
+ 24 files changed         360 insertions(+)         86 deletions(-)         22 commits          susi_android
+         1 commits          loklak_wok_android
+ 12 files changed         409 insertions(+)         234 deletions(-)         10 commits          chat.susi.ai
+ 6 files changed         32 insertions(+)         13 deletions(-)         6 commits          open-event-orga-app
+ 28 files changed         283 insertions(+)         33 deletions(-)         8 commits          open-event-frontend
+no commits          gci16.fossasia.org
+ 33 files changed         1978 insertions(+)         175 deletions(-)         13 commits          susi_server
+ 16 files changed         117 insertions(+)         77 deletions(-)         14 commits          2018.fossasia.org
+ 1 file changed         1 insertion(+)         1 deletion(-)         2 commits          loklak_search
+no commits          fossasia-nodemailer
+no commits          mew
+no commits          yaydoc
