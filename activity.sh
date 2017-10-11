@@ -9,12 +9,12 @@ if [ -z "$repo" ]; then
 fi
 
 if ! type filename > /dev/null; then
-  sudo apt -y -qq install wcstools
+  sudo apt -y -q install wcstools
 fi
 
 
 if ! type git > /dev/null; then
-  sudo apt -y -qq install git
+  sudo apt -y -q install git
 fi
 
 folder="`filename \"$repo\"`"
@@ -47,4 +47,3 @@ fi
   # last line must be the summary
   echo -e "`git diff --stat \"$first_commit\" \"$last_commit\" | tail -n 1 | sed 's/,/\t/g'`\t $number_of_commits commits \t $folder"
 )
-
